@@ -1,7 +1,6 @@
 
 
-function countWord(event) {
-	event.preventDefault();
+function countWord() {
           
     
     var words = document
