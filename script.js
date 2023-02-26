@@ -1,6 +1,7 @@
 //your code here
 
 function countWord() {
+	event.preventDefault();
           
     // Get the input text value
     var words = document
